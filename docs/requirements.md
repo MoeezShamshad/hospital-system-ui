@@ -1,4 +1,4 @@
-# Open Hospital App
+# GST HOSPITAL App
 
 ## Software Requirements
 

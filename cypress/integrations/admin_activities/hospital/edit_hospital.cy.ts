@@ -19,7 +19,7 @@ describe('Edit Hospital Activity specs', () => {
 	});
 
 	it('should successfully save hospital infos changes', () => {
-		cy.byId('description').clear().type('St. LUKE Hospital');
+		cy.byId('description').clear().type('GST International');
 		cy.byId('email').clear().type('luke@hospital.com');
 		cy.byId('currencyCod').clear().type('FCFA');
 		cy.dataCy('submit-form').click();

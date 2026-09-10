@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
-  title: Open Hospital API Documentation
-  description: Open Hospital API Documentation
+  title: GST HOSPITAL API Documentation
+  description: GST HOSPITAL API Documentation
   contact:
     name: ApiInfo.DEFAULT_CONTACT
   license:
@@ -7631,7 +7631,7 @@ components:
         description:
           type: string
           description: Hospital Description
-          example: St. Luke HOSPITAL - Angal
+          example: GST Hospital
           maxLength: 255
         address:
           type: string

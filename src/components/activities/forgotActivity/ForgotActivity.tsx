@@ -72,7 +72,7 @@ export const ForgotActivity: FC = () => {
 			<div className="container forgot__background">
 				<img
 					src={logo}
-					alt="Open Hospital"
+					alt="GST HOSPITAL"
 					className="forgot__logo"
 					width="150px"
 				/>

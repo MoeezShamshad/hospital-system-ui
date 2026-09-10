@@ -12,7 +12,7 @@ export const NotFound: FC<IProps> = ({ backRoute }) => {
 			<div className="container login__background">
 				<img
 					src={logo}
-					alt="Open Hospital"
+					alt="GST HOSPITAL"
 					className="login__logo"
 					width="150px"
 				/>

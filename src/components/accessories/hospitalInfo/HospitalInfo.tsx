@@ -21,7 +21,7 @@ export const HospitalInfo = () => {
 		<div className="hospitalInfo">
 			<div className="hospitalInfo__background">
 				<div className="hospitalInfo__logo">
-					<img src={logo} alt="Open Hospital" height="45px" />
+					<img src={logo} alt="GST HOSPITAL" height="45px" />
 				</div>
 				<div className="hospitalInfo__main">
 					<div className="hospitalInfo__main__headline">

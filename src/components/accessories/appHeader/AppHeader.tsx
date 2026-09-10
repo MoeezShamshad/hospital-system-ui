@@ -112,7 +112,7 @@ const AppHeader: FunctionComponent<IOwnProps> = ({ breadcrumbMap }) => {
 					<div className="appHeader__identifier">
 						<div className="appHeader__identifier__logo">
 							<Link to={'/'}>
-								<img src={logo} alt="Open Hospital" height="45px" />
+								<img src={logo} alt="GST HOSPITAL" height="45px" />
 							</Link>
 						</div>
 						<div

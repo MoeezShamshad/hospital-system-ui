@@ -14,7 +14,7 @@ const PermissionDenied: FC<IProps> = ({ backRoute }) => {
 			<div className={classnames('container', classes.background)}>
 				<img
 					src={logo}
-					alt="Open Hospital"
+					alt="GST HOSPITAL"
 					className={classes.logo}
 					width="150px"
 				/>
