@@ -83,7 +83,7 @@
 		"rifm": "^0.12.1",
 		"rxjs": "^7.8.2",
 		"sass-loader": "^16.0.6",
-		"styled-components": "^6.1.19",
+		"styled-components": "^6.5.3",
 		"susy": "2",
 		"yup": "^1.7.1"
 	},
